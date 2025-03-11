@@ -1,5 +1,4 @@
-## Hi there 👋
-Hi, I'm currently working on building a repository and README
+👋Hi, I'm Rosario Vidales, Ph.D. Candidate in the South Florida Terrestrial Ecosystem Lab at FIU under Dr. Michael Ross.
 [South Florida Terrestrial Ecosystem Lab (https://softel.fiu.edu/)]
 
 <!--
