@@ -1,7 +1,7 @@
 ## Hi there 👋
 Hi, I'm currently working on building a repository and README
 [South Florida Terrestrial Ecosystem Lab (https://softel.fiu.edu/)]
->Hi, I'm currently
+
 <!--
 **rvida018/rvida018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
